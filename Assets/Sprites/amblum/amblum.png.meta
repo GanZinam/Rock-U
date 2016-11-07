@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: c93b8ef72817aee4382dd187b833e119
+timeCreated: 1470894585
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: amblum_0
+    21300002: amblum_1
+    21300004: amblum_2
+    21300006: amblum_3
+    21300008: amblum_4
+    21300010: amblum_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: amblum_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 117
+        width: 363
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.79994, y: 51.0785}
+        - {x: 95.79994, y: 95.0785}
+        - {x: 62.799942, y: 122.0785}
+        - {x: -1.200058, y: 122.0785}
+        - {x: -53.200058, y: 95.0785}
+        - {x: -84.20006, y: 66.0785}
+        - {x: -103.20006, y: 36.0785}
+        - {x: -103.20006, y: -12.921501}
+        - {x: -91.20006, y: -43.9215}
+        - {x: -61.200058, y: -68.9215}
+        - {x: 2.799942, y: -104.9215}
+        - {x: 66.79994, y: -120.9215}
+        - {x: 87.79994, y: -120.9215}
+        - {x: 91.79994, y: -116.9215}
+        - {x: 100.79994, y: -94.9215}
+        - {x: 104.79994, y: -52.9215}
+    - name: amblum_1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 90
+        width: 436
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124.89011, y: -61.785774}
+        - {x: 124.89011, y: 52.214226}
+        - {x: 104.89011, y: 85.214226}
+        - {x: 46.890106, y: 124.214226}
+        - {x: -30.109894, y: 124.214226}
+        - {x: -59.109894, y: 114.214226}
+        - {x: -81.10989, y: 102.214226}
+        - {x: -124.10989, y: 59.214226}
+        - {x: -124.10989, y: -46.785774}
+        - {x: -105.10989, y: -73.785774}
+        - {x: -96.10989, y: -82.785774}
+        - {x: -67.10989, y: -107.785774}
+        - {x: -44.109894, y: -122.785774}
+        - {x: -38.109894, y: -123.785774}
+        - {x: 32.890106, y: -123.785774}
+        - {x: 50.890106, y: -116.785774}
+        - {x: 67.89011, y: -107.785774}
+        - {x: 123.89011, y: -73.785774}
+      - - {x: -21.109894, y: -63.785774}
+        - {x: -25.109894, y: -63.785774}
+        - {x: -33.109894, y: -66.785774}
+        - {x: -43.109894, y: -69.785774}
+        - {x: -44.109894, y: -78.785774}
+        - {x: -44.109894, y: -103.785774}
+        - {x: -9.109894, y: -103.785774}
+        - {x: -9.109894, y: -96.785774}
+        - {x: -17.109894, y: -66.785774}
+    - name: amblum_2
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 108
+        width: 396
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112.60071, y: 113.95708}
+        - {x: -112.60071, y: -113.04292}
+        - {x: 113.39929, y: -113.04292}
+        - {x: 113.39929, y: 113.95708}
+    - name: amblum_3
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 118
+        width: 399
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.47516, y: -85.352455}
+        - {x: 114.47516, y: -72.352455}
+        - {x: 114.47516, y: 34.647545}
+        - {x: 94.47516, y: 74.647545}
+        - {x: 61.47516, y: 99.647545}
+        - {x: 43.47516, y: 108.647545}
+        - {x: 28.475159, y: 113.647545}
+        - {x: -25.524841, y: 113.647545}
+        - {x: -40.52484, y: 111.647545}
+        - {x: -75.52484, y: 95.647545}
+        - {x: -113.52484, y: 46.647545}
+        - {x: -113.52484, y: -63.352455}
+        - {x: -107.52484, y: -111.352455}
+        - {x: -63.52484, y: -113.352455}
+        - {x: 65.47516, y: -113.352455}
+        - {x: 113.47516, y: -109.352455}
+        - {x: 114.47516, y: -107.352455}
+        - {x: 114.47516, y: -101.352455}
+    - name: amblum_4
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 117
+        width: 292
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.05371, y: 117.5785}
+        - {x: -83.05371, y: -116.4215}
+        - {x: 83.94629, y: -116.4215}
+        - {x: 83.94629, y: 117.5785}
+    - name: amblum_5
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 121
+        width: 804
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 228.25061, y: -110.64532}
+        - {x: 229.25061, y: -109.64532}
+        - {x: 229.25061, y: 112.35468}
+        - {x: -228.74939, y: 112.35468}
+        - {x: -228.74939, y: -109.64532}
+        - {x: -227.74939, y: -110.64532}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: 84d22d8ddd5c99047b1de3e0c30c23f7
+timeCreated: 1471931623
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KakaoTalk_20160823_144739186_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KakaoTalk_20160823_144739186_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 91
+        width: 300
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142, y: -69.5}
+        - {x: 150, y: -45.5}
+        - {x: 150, y: 15.5}
+        - {x: 134, y: 83.5}
+        - {x: 129, y: 94.5}
+        - {x: 105, y: 112.5}
+        - {x: 55, y: 141.5}
+        - {x: 38, y: 145.5}
+        - {x: -20, y: 145.5}
+        - {x: -85, y: 130.5}
+        - {x: -115, y: 107.5}
+        - {x: -122, y: 78.5}
+        - {x: -146, y: 33.5}
+        - {x: -150, y: 18.5}
+        - {x: -150, y: -36.5}
+        - {x: -143, y: -57.5}
+        - {x: -132, y: -69.5}
+        - {x: -114, y: -82.5}
+        - {x: -101, y: -123.5}
+        - {x: -92, y: -130.5}
+        - {x: -76, y: -141.5}
+        - {x: -71, y: -143.5}
+        - {x: -60, y: -145.5}
+        - {x: 57, y: -145.5}
+        - {x: 66, y: -144.5}
+        - {x: 85, y: -140.5}
+        - {x: 105, y: -116.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

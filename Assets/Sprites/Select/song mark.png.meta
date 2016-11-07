@@ -1,0 +1,92 @@
+fileFormatVersion: 2
+guid: e8626e275fcc2d34a8dd46652bdb8cc3
+timeCreated: 1471264050
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: song mark_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 0
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: song mark_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 331
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.5, y: -87}
+        - {x: 121.5, y: -55}
+        - {x: 163.5, y: -12}
+        - {x: 165.5, y: -8}
+        - {x: 165.5, y: 6}
+        - {x: 84.5, y: 88}
+        - {x: 56.5, y: 116}
+        - {x: 8.5, y: 166}
+        - {x: 5.5, y: 167}
+        - {x: -7.5, y: 167}
+        - {x: -37.5, y: 135}
+        - {x: -44.5, y: 130}
+        - {x: -107.5, y: 67}
+        - {x: -158.5, y: 15}
+        - {x: -165.5, y: 7}
+        - {x: -165.5, y: -6}
+        - {x: -28.5, y: -143}
+        - {x: -11.5, y: -161}
+        - {x: -4.5, y: -167}
+        - {x: 7.5, y: -167}
+        - {x: 14.5, y: -161}
+        - {x: 33.5, y: -143}
+        - {x: 53.5, y: -123}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
